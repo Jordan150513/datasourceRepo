@@ -1,6 +1,5 @@
 package com.fang.home;
 
-import com.fang.home.datasource.DynamicDataSourceRegister;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

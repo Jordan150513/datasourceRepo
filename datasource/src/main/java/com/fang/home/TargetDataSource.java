@@ -1,4 +1,4 @@
-package com.fang.home.datasource;
+package com.fang.home;
 
 import java.lang.annotation.*;
 
